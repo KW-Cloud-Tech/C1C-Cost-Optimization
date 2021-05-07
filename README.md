@@ -6,6 +6,8 @@ Python script to collect cost-optimization data from Trend Micro Cloud One(TM) C
 Create Conformity API Key https://www.cloudconformity.com/help/public-api/api-keys.html  
 Install python 3 on your terminal
 
+  $ python C1C_cost_optimisation.py
+
 Set the environment variables to filter the checks API query  
 See https://github.com/cloudconformity/documentation-api/blob/master/Checks.md#list-all-account-checks 
 Region and accounts list are optional  
