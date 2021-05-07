@@ -9,10 +9,10 @@ Install python 3 on your terminal
      $ python C1C_cost_optimisation.py
 
 Set the environment variables to filter the checks API query  
-See https://github.com/cloudconformity/documentation-api/blob/master/Checks.md#list-all-account-checks 
-Region and accounts list are optional  
-CC_REGION is set as us-west-2 by default,  
-CC_ACCOUNTIDS is set to include all accounts in the organisation by default
+See https://github.com/cloudconformity/documentation-api/blob/master/Checks.md#list-all-account-checks    
+Region and accounts list are optional    
+CC_REGION is set as us-west-2 by default,    
+CC_ACCOUNTIDS is set to include all accounts in the organisation by default  
 
 ### Filter options (see checks API documentation)
 
