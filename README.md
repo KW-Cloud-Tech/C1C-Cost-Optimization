@@ -28,3 +28,6 @@ CC_ACCOUNTIDS is set to include all accounts in the organisation by default
             "filter[services]": os.environ.get("CC_FILTER_SERVICES", ""),
             "filter[statuses]": os.environ.get("CC_FILTER_STATUSES", ""),
             "filter[tags]": os.environ.get("CC_FILTER_TAGS", ""),
+
+##### Credit
+Tom Ryan - https://github.com/TomRyan-321 
